@@ -14,8 +14,7 @@ Twitter : https://twitter.com/william_renaldy?t=tqsfP_REBQNJDxIRr75Beg&s=09
 
 LinkedIn : https://www.linkedin.com/in/william-renaldy-5ba97b175
 
-Hackerrank : william_renaldy
-
+Hackerrank : https://www.hackerrank.com/william_renaldy
 <!---
 williamrenaldy2003/williamrenaldy2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
