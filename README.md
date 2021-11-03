@@ -1,4 +1,4 @@
-👋 Hi, I’m @williamrenaldy2003
+👋 Hi, I’m William Renaldy
 
 👀 I’m interested in python programming
 
