@@ -1,6 +1,6 @@
 👋 Hi, I’m William Renaldy
 
-👀 I’m interested in python programming and App development 
+👀 I’m interested in python programming and Machine learning
 
 🌱 I’m currently learning Artificial intelligence and data science at KPR institute of engineering and technology 
 
