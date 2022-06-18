@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Renaldy A</h1> 
+<h1 align="center">Hi 👋, I'm William Renaldy</h1> 
   <h3 align="center">Student and an AI Enthusiast</h3> 
   
   ![ github_gif ](https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif) 
